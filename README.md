@@ -1,1 +1,1 @@
-Quantitative Researcher working in buy-side finance. Teams I've worked in make use of open-source packages for both ad-hoc purposes and building out internal libraries. Looking to stay up-to-date, contribute back, and report issues we find along the way.
+Quantitative Researcher working in asset management. Teams I've worked in make use of open-source packages for both ad-hoc purposes and building out internal libraries. Looking to stay up-to-date, contribute back, and report issues we find along the way.
