@@ -1,1 +1,1 @@
-Quantitative Researcher working in asset management. Both in my own projects and on professional teams, we make use of open-source packages for both ad-hoc purposes and building out internal libraries -- looking to stay up-to-date, contribute back, and report issues we find along the way.
+Quantitative Researcher working in asset management. Both in my own projects and on professional teams, we make use of open-source packages for both ad-hoc purposes and building out internal libraries -- looking to stay up-to-date, contribute back, and report issues along the way.
